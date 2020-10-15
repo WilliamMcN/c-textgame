@@ -1,0 +1,8 @@
+1 0 1 *name*: Tell me Marshal: The new leader is just different than what we are use too.  Anyways lets get to feed and clothed. *name*: Ok
+1 0 2 You stay quite
+1 1 1 *name*: I don’t know.  Marshal: Some advice, go see the world, explore, you only live once.  Who knows maybe I have a future legend sitting at my table, but either a good or bad one depends on you. 
+1 1 2 *name*: Go back to the forest…?  Marshal: Don’t do that *name*, you could live out there if you were a gnome, or halfling, but your almost a fully grown man, not enough food in this forest to keep you well feed.  *name*: Then what should I do?  Marshal: Hmm well you could relocate to a new forest, if that’s what you really want to do.  But in this world everyone needs coin to live a decent life, so maybe become an adventurer, you get to travel and make money doing so.
+1 1 3 *name*: Can I stay hear with you?  Marshal: Hehe, sigh… As much as I would like the company, and the help to make something out of this farm, I don’t think so.  This is where old men come to die in peace, not for young ones to live.  Go out in the world and live your life before deciding to live here.  
+1 1 4 *name*: Travel…maybe  Marshal: Great idea.  You should try to become an adventurer, that way you can travel and make some money.   
+1 2 1 You draw your weapon and attack the soldiers.
+1 2 2 You keep sitting watching what happens.

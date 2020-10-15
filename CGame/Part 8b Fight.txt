@@ -1,0 +1,26 @@
+11 0 1 ?: Hey what’s going on over there?!
+11 0 1 Elf Woman: Shit!  Scatter!
+11 0 1 The thieves retreat running in deferent directions.  As you run out of the alley way you see heavily armored guards running after the thieves and towards you.  As one approaches you.
+11 0 1 Guard 1: You what the hell is going on?  
+11 0 2 Tell the Truth
+11 0 2 Run away  
+11 0 2 Say nothing
+11 1 1 You are lead down the road for a minute, until a wagon pulls up beside you.  It has bars, on the windows, with the royal symbol painted on all sides.  
+11 1 1 Guard 2: Get in.  
+11 1 1 The second guard pushes you into the wagon and locks the door.  You try to sit yourself up, with the wagon moving, your armor and cuffs on you its difficult.  After a few minutes in the wagon, you stop.  The door opens, with the first guard standing there. 
+11 1 1 Guard 1: Common, lets go.  
+11 1 1 You get out of the wagon, you see a decently big building.  Just bigger than a church, there’s a small stone wall around the building, and a gate.  You see that the building is three floors, with the third has a front balcony, with guard up there.  You can see torch light coming from inside the building, but not too much movement.  
+11 1 1 The guard leads you up the stairs, as you enter, the floors, shine, and make a reflection back at you.  Since this is the first time seeing such a thing you are surprised.  He leads you to a second set of stairs leading to the second floor.  Once there you go down the hall way, and another to eventually you are in front of a wooden door.
+11 1 1 KNOCK KNOCK  
+11 1 1 The guard knocks.  
+11 1 1 ?: Come in.  
+11 1 1 The guard opens the door, you see a decently sized room but probably not the biggest.  The room is light up by a single candle sitting on top of the one desk.  Behind it sits a gnome.  Big point ears outward instead of up like the elf.  Obliviously very short, grey hair turning white, and starting to go bald.  
+11 1 1 The gnome is writing something down.  The guard pushes you in, and makes you stand beside him.  
+11 1 1 Gnome: My name is Shaun Mac.  
+11 1 1 Shaun: I am the night marshal.  I decide who is guilty, and who is innocent.  I lead investigations, warrants etc.  Essentially I decide your fate, so it’s really important what you say right now.  
+11 1 2 Tell the Truth
+11 1 2 Say nothing
+11 1 2 Show letter
+11 1 2 Spit in face
+11 2 2 If Shaun is corrupt
+11 2 2 If Shaun is not corrupt

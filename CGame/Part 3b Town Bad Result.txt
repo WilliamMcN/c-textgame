@@ -1,0 +1,2 @@
+3 0 1 *name*: Sure.  Jeffords: Great, but first a little test.  Snaps his fingers and the 1 soldier that fought Marshal steps forward and draws his sword.
+3 0 2 *name*: Sorry already have a job.  *name*: Taking you down.  Jeffords: Kill him!

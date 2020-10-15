@@ -1,0 +1,21 @@
+2 0 1 One of the soldiers starts to run to the town
+2 0 1 Solder: The leader will hear about this!  
+2 0 1 You go to Marshal to make sure he’s okay.
+2 0 1 *name*: You okay?
+2 0 1 Marshal: I’m fine, I think you better get going before more trouble comes.  Problem is you will need to go through Bugworth to head to the next town.  There’s nothing for miles if you go the opposite direction.  Here’s an old back pack, and a few food rations.  
+2 0 1 Marshal gives you food rations and old backpack.  
+2 0 1 *name*: Thank you, but what about you?  
+2 0 1 Marshal: Don’t worry about me *name*, I’ll be okay.  
+2 0 1 *name*: Alright, thank you again.  
+2 0 1 You leave Marshal and head into Bugworth.  
+2 0 1 ?:Hey!
+2 0 1 You turn around and see a well dressed over weight man with guards.  
+2 0 1 ?: Is he the one? 
+2 0 1 He speaks to the solder that ran away.  
+2 0 1 Soldier: Yeah that him!
+2 0 1 ?: Good. My name is Jeffords, leader and governor of Bugworth.  Yours?  
+2 0 2 Answer
+2 0 2 Don't Answer
+2 1 1 Jeffords: I’ll get to the point.  I thank you for beating out the weak links in my army.  So hard to get some good help these days.  Anyways I thought I should offer you employment since you are obviously stronger.	
+2 1 2 Join
+2 1 2 Fight

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Headers\Ability.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Armer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Dungeon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Encounter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\included_libraries.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\LootTable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Monster.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Player.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\SideQuest.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Town.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Headers\Weapon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Source Files\main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source Files\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Ability.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Armer_r.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Encounter_r.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Game.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\LootTable.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Player.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Utilities.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Weapon.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Resource\Monster.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="pStory.dat">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 2 Marshal House.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 3a Town Good.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 3b Town Bad.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 4a Join Town.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 4b Fight Town.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 5 Wolves.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 6 Orphanes.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 7 Kingdom.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 8a Surrender.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 8b Fight.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 9 Prison.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Part 10 Final.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="NpcChat.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="NpcChatAnswers.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="The_Begining.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="respone.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="EncounterMonster.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="LootTable.dat">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+</Project>

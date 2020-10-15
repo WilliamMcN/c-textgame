@@ -1,0 +1,6 @@
+8 0 1 You take deep breath and continue your way towards the Kingdom.
+8 0 2 You sigh, turn around and walk away from the kingdom.  To live your life helping out when you can but never making a huge difference. GAME OVER
+8 1 1 *Name*: How can I help?  You walk up to the hooded figure, to get a better look at their face.  The hooded figure suddenly grabs your arm and pulls you into the alley way throwing you onto the ground.  With your fighting experience you are able to catch yourself.  
+8 1 2 *Name*: Piss off You turn around to continue walking, when suddenly you are grappled and pulled into the alley way.  You take one of your arms and punch the person holding you, after one good punch you are let go.
+8 2 1 *Name*: Sorry lady but not happening.
+8 2 2 *Name*: Alright I don’t want any trouble.  You drop your weapons and start to take off your armor.  

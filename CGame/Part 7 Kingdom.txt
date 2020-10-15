@@ -1,0 +1,12 @@
+8 0 1 As you continue to walk down the path, you eventually see a city in the distance.  From what you can tell, a great river leads to the city, for trade and transportation.  The city appears to be surrounded by farm land, with huge walls dividing the city from the outside.  Near the center is one of the tallest buildings, which you assume to be the Kings castle.  Realizing you might be fighting a whole country to pause and think do you want to go down this path?
+8 0 2 Yes, when the kings dead the country will be safer
+8 0 2 No, I will do what I can, but fighting a country isn’t one of them
+8 1 1 A few hours travel, you enter the Kingdom.  Stones cover the roads and path in a way that makes it even and easier to walk on.  As night approaches people are heading home, realizing you need to find a place for the night, you continue down further into the city.  After a few minutes down the road, and with no luck of finding a place for the night
+8 1 1 ?:Excuse me can you help me?
+8 1 1 You hear from behind you.  You see a hooded figure standing in front of a alley way.  
+8 1 2 Yes
+8 1 2 No
+8 2 1 You look around and you see you are surrounded by 15 thieves.  The hooded figure pulls back the hood, to reveal a female elf.  With dark skin, and silver hair she smirks at you, with full of confidence.  
+8 2 1 Female Elf: Sorry love, but we will be taking all of your stuff, weapons, gold, armor.  If you fight, we will probably kill you and take your stuff.  If you don’t fight, we will still take your stuff but you wont be hurt.  Don’t worry we will leave you with a knife, and your common cloths. 	
+8 2 2 Fight:
+8 2 2 Surrender:

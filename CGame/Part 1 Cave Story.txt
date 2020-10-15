@@ -1,0 +1,39 @@
+0 0 1 Bird: Tweet Tweet Tweet
+0 0 1 …
+0 0 1 Me: Uhhhh… dumb birds
+0 0 1 Get up?
+0 0 2 No
+0 0 2 Yes
+0 1 1 I am in my home, a cave for a few years now.
+0 1 1 Look around or leave?
+0 1 2 Look at Bed
+0 1 2 Look at Fire Pit
+0 1 2 Look at Weapon
+0 1 2 Leave	
+0 2 1 Okay new day, what should I do first?
+0 2 2 Hunt
+0 2 2 Scavenge
+0 2 2 Collect Fire Wood
+0 3 1 ?: Ugh,…, dumb branches, uhhh ahhhh
+0 3 1 You peak behind a few bushes.
+0 3 1 An old man on the ground struggling to get up.  A few of his things are all over the place.  Food, weapons, etc.  
+0 3 1 Old man: HEY! 
+0 3 1 The old man looks at you.  
+0 3 1 Old man: Can you help me? 
+0 3 2 HELP
+0 3 2 Run Away
+0 4 1 Old Man: Thank you lad.  What’s your name?
+0 4 2 Tell him. 
+0 4 2 Don't have one.  
+0 5 1 You help the man get up and help collect his things.
+0 5 1 Old man: Thank you *name*.  What are you doing out here, and practically naked? 
+0 5 1 *name*: Just been here since I remember. 
+0 5 1 Old man: Tell you what, you come back to town with me, I get you some proper cloths, and food.  There’s probably work in town so you could get some coin and find a proper place to live.
+0 5 1 Should I trust him?  He hasn’t done anything yet.  
+0 5 1 *name* stomach: GRRRRRRRRR
+0 5 1 *name*: Alright, thanks.      
+0 5 1 You and the old man try to head back his home.  The old man tells you his name is Marshal and he was using a short cut to get home faster but got lost.
+0 5 1 As you exit the forest for the first time, you see a small town ahead of you.
+
+
+

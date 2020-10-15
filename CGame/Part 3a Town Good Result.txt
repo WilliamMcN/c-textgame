@@ -1,0 +1,4 @@
+2 0 1 *name*: *name* Jeffords: Pleasure to meet you *name*
+2 0 2 *name*: Piss off! Jeffords: Got some fight in you I like that.
+2 1 1 *name*: Alright I’ll work for you for a while before I move on.
+2 1 2 *name*: Naw.  *name*: I think it would be better if you weren’t in power anymore.  Jeffords: Ha, fool.  KILL HIM!

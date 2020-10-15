@@ -1,0 +1,30 @@
+1 0 1 Marshal: That Bugworth.  Just a small farming village, its peaceful, …well it was.  
+1 0 1 *name*: Was?
+1 0 1 Marshal: Oh its nothing.
+1 0 2 Ask him again
+1 0 2 Let it go
+1 1 1 You and Marshal walk to his house.  It’s just outside of the town, there is a small garden, with one main building.  You and Marshal go inside.  It’s one big room, a single table, 2 beds, a small counter/cabinet, and a chest on the opposite side of the wall.  
+1 1 1 Marshal: I have some old cloths, and equipment you can have in the chest.  I’ll be in the garden getting our lunch.  
+1 1 1 Marshal goes outside, living you to change.  You go over to the chest and start to change.  You take off the plants, and random sheets you have on and start putting on Marshal old cloths.  Once you put on the cloths, you put on some old armor, and grab an old short sword at the bottom of the chest.  
+1 1 1 Marshal comes in. 
+1 1 1 Marshal: Oh good you changed.  Come sit, I’ll get our lunch ready.  Glad to see the old gear finally being used again, how many stories can that sword tell if it could speak.  Hehe
+1 1 1 You sit down, placing the short sword on the table.  Marshal brings over a mixture of vegetables you seen only a few times as well as a fork.  
+1 1 1 Marshal: It’s called a salad, hope you like it. 
+1 1 1 You take a few of the vegetables with the fork and eat it.  It’s the best thing you ever tasted.  You immediately scarfed it all down.   
+1 1 1 Marshal: Haha I’ll take that you like it.  So what are you going to do now?  
+1 1 2 No Idea
+1 1 2 Go back home
+1 1 2 Stay Here
+1 1 2 Travel
+1 2 1 BANG BANG BANG 
+1 2 1 On the door.  
+1 2 1 Marshal: Uh oh, stay here, I’ll get it.
+1 2 1 ?: Hey old man Marsh, you have the money you owe?
+1 2 1 Marshal:  I just payed taxes last week.  Stop being greedy.
+1 2 1 You look and see soldiers standing out Marshal’s door.  
+1 2 1 Soldier 1:  Hey everyone needs to help pay to keep the town safe, and the soldiers happy.  Specifically making sure I’m happy.  
+1 2 1 Marshal: Fuck off  *Spits* in solder’s face.  
+1 2 1 Soldier 1: Why you!!!!
+1 2 1 Soldier grabs Marshal slamming him against the wall.  
+1 2 2 Protect Marshal
+1 2 2 Don't Do Anything

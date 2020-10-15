@@ -1,0 +1,7 @@
+5 0 1 Jeffords is sitting on the ground scared of you and crying.  
+5 0 1 Jeffords: “Please spare my life!  I didn’t mean it! I’ll… I’ll leave!  You wont have to worry about me again!”
+5 0 2 Kill him
+5 0 2 Spare him
+5 1 1 ?: RUN!!!  HURRY! WE’RE BEING ATTACK!  You turn around and see a commoner running away, and enemy soldiers running towards town. 
+5 1 2 Run away
+5 1 2 Defend the town

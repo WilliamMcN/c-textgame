@@ -1,0 +1,25 @@
+9 0 1 As you finish taking your armor off, you are left with nothing but your common cloths. 
+9 0 1 Elf Woman: Good, now since you’ve been such a good boy you deserve a prize. Here’s the kni…
+9 0 1 Suddenly another figure rushed over.  
+9 0 1 ?: Boss! Boss! I… I messed up!
+9 0 1 Another thief came around the corner.  He is a lot scrawnier than the others around you.  
+9 0 1 Elf Woman: What happened? What you do!?
+9 0 1 Thief: I stabbed him.  He was all in my face, and I stabbed him and he just died.  Then guards came and I …. I ran.  
+9 0 1 Elf Woman: Is that the weapon!?
+9 0 1 You look and you see in his hand a small, rusty, bloody dagger. 
+9 0 1 Elf Woman: My God boy you are a idiot!
+9 0 1 ?: He went that way!
+9 0 1 Thief: AHH THEY’RE COMING! IM DEAD IM DEAD!
+9 0 1 Elf Woman: Give me that!
+9 0 1 She grabs the knife from the thief and turns and looks at you. 
+9 0 1 Elf Woman: Here’s your prize. 
+9 0 1 She shoves the bloody blade into your hand.  
+9 0 1 Elf Woman: Pleasure doing business with you. 
+9 0 1 She then grabs you and throws you out of the alley way onto the street.  As you pick yourself up you see guards running down the street.  
+9 0 1 Guard: There he is!
+9 0 1 You turn around, and you can see the thieves, and the elf woman, running down the alley way and turning around the corner  
+9 0 1 Guard: FREEZE!
+9 0 2 Surrender
+9 0 2 Run Away
+ 
+

@@ -1,0 +1,15 @@
+3 0 1 You go to Marshal to make sure he’s okay.
+3 0 1 *name*: You okay?
+3 0 1 Marshal: I’m fine, I think you better get going before more trouble comes.  Problem is you will need to go through Bugworth to head to the next town.  There’s nothing for miles if you go the opposite direction.  Here’s an old back pack, and a few food rations.  
+3 0 1 Marshal gives you food rations and old backpack.  
+3 0 1 *name*: Thank you, but what about you?  
+3 0 1 Marshal: Don’t worry about me *name*, I’ll be okay.  
+3 0 1 *name*: Alright, thank you again.  
+3 0 1 You leave Marshal and head into Bugworth. 
+3 0 1 ?:Hey!
+3 0 1 You turn around and see a well dressed over weight man with guards.  
+3 0 1 ?: I haven’t seen you around here before.  You looking for work?
+3 0 1 *name*: Depends on who’s asking.
+3 0 1 Jeffords: Hmmm My name is Jeffords, leader and governor of Bugworth.  And I could use another sword for hire.   You interested? 
+3 0 2 Join
+3 0 2 Fight	

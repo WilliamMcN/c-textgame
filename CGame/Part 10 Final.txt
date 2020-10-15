@@ -1,0 +1,20 @@
+12 0 1 You travel for 3 days until you arrive at the prison.  
+12 0 1 Inside the front yard of the prison the prisoners are celebrating, cheering and expressing their joy.  A lot are already running out side of the prison gates, but most are still around.  Eventually a man approaches you.
+12 0 1 Man: My name is John.  
+12 0 1 John: I saw you fight the guards, and saw you set us free.  Our lives belong to you, we will follow you until our dying breath.  All of prisoners in the court yard start to bow their heads towards you.  
+12 0 1 In front of you, you have obtained a small army what do you do?
+12 0 2 Order the Attack
+12 0 2 Kill them All
+12 0 2 Train  
+12 1 1 The King stands in front of you, he is wearing gold armor, with a crown on his head.  He has a brownish greyish beard, and a scar over his left eye.  
+12 1 1 King: It’s a pleasure to put a face to the name.  It’s quite impressive on what you have done. 
+12 1 1 *Name: Thanks. 
+12 1 1 King: I will get straight to the point.  You know what I have done, and I know about you and what you’ve done.  I can honestly say, you impress me, you remind me of myself when I was younger, taking what I want, doing what I wanted, fun times; they still are. Haha.  
+12 1 1 You stare at the king in silence, your hand on your sword at the ready.
+12 1 1 King: I could use a man like you.
+12 1 1 You are surprised, to hear that, out of everything that could happen, that was the last thing you would have thought off. 
+12 1 1 King: Yes, the Kingdom could use you.  You could be the face of hope, of glory, and honor, for the kingdom.  We secretly cause the fear, and you rush in to help.  Or you can help cause the fear, either way we could use you.  What do you say?
+12 1 2 Fight
+12 1 2 Run Away
+12 1 2 Yes
+12 2 1 GAME OVER

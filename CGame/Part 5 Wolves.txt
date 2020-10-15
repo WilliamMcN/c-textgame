@@ -1,0 +1,7 @@
+6 0 1 ?: AAAHHHHHHH
+6 0 1 You hear in the distance.   You hurry to check out what’s going on.  You cut your way through some bushes and hide behind them.  
+6 0 1 You see a caravan being attacked by wolfs.  You see a woman and two children left alive.  The woman is swinging a stick at the wolfs trying to keep them away.  The children are screaming and crying.
+6 0 2 Kill the wolfs    
+6 0 2 Feed the wolfs
+6 0 2 Wait
+6 0 2 Run away  

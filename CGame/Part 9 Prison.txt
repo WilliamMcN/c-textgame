@@ -1,0 +1,6 @@
+10 0 1 You are stuck in the wagon for days.  You could see the Kingdom being left behind as you are travelled away.  You are stuck in the wagon for 3 days being taken to an unknown location until eventually you see the prison wall.  Some guards pull you out of the wagon, the driver just looks at you with sorrow or spit, you can’t tell.  
+10 0 1 Driver: This one needs to locked up and forgotten.  
+10 0 1 Again, you can’t tell if he is following orders, or saying that for amusement.  The guard’s node and drag you inside.  They take you through several hallways, stairs, and door with huge locks on them.  Eventually you lose count of how deep underground you are, until they stop in front of a bared door.  They open it and throw you inside. 
+10 0 1 Guard: Welcome home.
+10 0 1 The guard closes the door and locks it, and they leave.  You look around, you see a dirty toilet bucket, a old broken mattress, and a itchy blanket.  With a sigh you wonder where you went wrong, and what could have been done to prevent it.  
+10 0 1 GAME OVER

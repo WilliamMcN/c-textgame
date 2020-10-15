@@ -1,0 +1,6 @@
+4 0 1 Jeffords: Excellent!  You’re hired! Now come, there’s a few things I want you to do…
+4 0 1 ?: RUN!!!  HURRY! WE’RE BEING ATTACK!
+4 0 1 You turn around and see a commoner running away, and enemy soldiers running towards town.  
+4 0 1 Jeffords: Soldier’s protect me!  *name* go kill them!
+4 0 2 Run away:
+4 0 2 Defend the town: 

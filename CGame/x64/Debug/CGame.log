@@ -1,0 +1,41 @@
+﻿  main.cpp
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(220): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(339): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(390): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(404): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(433): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\source files\main.cpp(49): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\source files\main.cpp(92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Weapon.cpp
+  Utilities.cpp
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(220): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(339): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(390): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(404): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(433): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Player.cpp
+  Monster.cpp
+  LootTable.cpp
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(220): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(339): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(390): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(404): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(433): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Game.cpp
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(220): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(339): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(390): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(404): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(433): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Encounter_r.cpp
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(220): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(339): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(390): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(404): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(433): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Armer_r.cpp
+  Ability.cpp
+  Generating Code...
+c:\users\fir3atwill\desktop\cgame-master\cgame\resource\utilities.cpp(160): warning C4715: 'Utilities::draw_inventorymenu': not all control paths return a value
+  CGame.vcxproj -> C:\Users\Fir3AtWill\Desktop\CGame-master\x64\Debug\CGame.exe
+  CGame.vcxproj -> C:\Users\Fir3AtWill\Desktop\CGame-master\x64\Debug\CGame.pdb (Partial PDB)

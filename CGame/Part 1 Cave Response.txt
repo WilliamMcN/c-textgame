@@ -1,0 +1,13 @@
+0 0 1 GAME OVER
+0 0 2 I get up
+0 1 1 Made of blankets and fur what ever I could find.  Not the most comfortable but better than nothing
+0 1 2 The embers are out, a skeleton of a rabbit is near by.  The rabbit was good, with those herds, have to do it again some time 
+0 1 3 It's my poorly crafted spear.  Not straight, with just a sharp end.  At least you work better than my hands.  Obtained spear.
+0 1 4 You left your cave
+0 2 1 Alright lets go hunting.  Few hours later.  A rabbit is in sight.  I lung at the rabbit, missed.  The rabbit hops away.
+0 2 2 Lets collect some herbs.  Few hours later.  I bend down, pick up a green purple spotted plant.  Yeah this will be good with a squirrel or something
+0 2 3 I need more fire wood.  Few hours later You are carrying back wood to your cave. Crack  What was that?  You drop your fire wood
+0 3 1 You go to help the old man.
+0 3 2 You run away from the old man, never to leave your cave again.  GAME OVER
+0 4 1 Me: It’s…. *Enter name*
+0 4 2 Me: I don't have one.  Old man: Hmm well how about Zero, for having no name?  Zero: Sure.  Better than nothing  

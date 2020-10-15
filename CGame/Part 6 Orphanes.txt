@@ -1,0 +1,37 @@
+7 0 1 As you climb over a hill in the distance you see the next town, but an unnatural amount of smoke coming from it.  
+7 0 1 As you approach you realized the raiders the king sent, probably hit this town first.  
+7 0 1 You see houses burnt down, random farm animals running about.  
+7 0 1 ?: Can you help us?
+7 0 1 You look down and see 5 children.  The oldest of the children, a girl, asked you the question.  
+7 0 1 *name*: What are your names?
+7 0 1 Cecil: I’m Cecil, Henry, Julia, Betty, Thomas.
+7 0 1 She pointed out from oldest to youngest telling you their names. 
+7 0 1 *name*: Where are your parents? 
+7 0 1 All of them went quite and looked down.  The youngest, Thomas wiped away a tear on his face.  
+7 0 1 Cecil: So can you help us?
+7 0 2 Help
+7 0 2 Steal
+7 1 1 You notice there is a adventure’s guild in town, you realize you need work, so you go in.  Inside it’s a big hall with several counters.  Its not busy so you walk up to the counter.  
+7 1 1 *name*: Umm hello?
+7 1 1 You tap on the glass.  
+7 1 1 ?: Hang on Hang on I’ll be there in a jiffy.  
+7 1 1 You see a stole move on its own, it stops on the opposite side of the counter.  Then a small dwarf starts climbing it.  
+7 1 1 Bertha: Why hello there, my name is Bertha, never seen you before you new?
+7 1 1 *name*: Uhh yeah.  
+7 1 1 Bertha: Okey Dokey.  Do you have an adventure’s license? 
+7 1 1 *name*: Uhh no. 
+7 1 1 Bertha: Okay no problem we can take care of that right now.  What’s your name?
+7 1 2 Tell her your name
+7 1 2 Make up alias name
+7 2 1 Bertha: Okay nice to meet you *name*.  Alright description, human, male, no scars or marks.  Okay look straight ahead of me for a second and smile
+7 2 2 Why?
+7 2 2 Smile	
+7 2 2 Flip her off
+7 3 1 Bertha: Alright well we got all the paper work, heres your badge to show you’re an adventurer
+7 3 1 Obtained adventure license, and badge.  
+7 3 1 Bertha: The jobs are posted over there
+7 3 1 You look and see a job board.  You walk over and look at the board.  A lot of them are taken already, and some are very far away or sound to dangerous.  Only one sticks out to you.  A dungeon quest.  
+7 3 2 Ask about the dungeon quest
+7 3 2 Take Dungeon Quest
+7 3 2 Leave
+
